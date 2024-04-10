@@ -1,4 +1,4 @@
-#Super Store Analysis
+Super Store Analysis
 
 Requirements :
 Libraries
@@ -8,5 +8,5 @@ Libraries
 3. Matplotlib
 4. Seaborn
 
-#Introduction
-###IN_
+Introduction
+
