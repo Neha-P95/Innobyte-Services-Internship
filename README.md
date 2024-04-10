@@ -8,5 +8,10 @@ Libraries
 3. Matplotlib
 4. Seaborn
 
-Introduction
+Methodologies :
+1. Data Preprocessing
+2. Data Cleaning
+3. Data Visualization
+4. Data Exploration (EDA)
+
 
